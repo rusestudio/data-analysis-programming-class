@@ -1,0 +1,3 @@
+#ignore large file
+*.json
+lab_prac_prof/*.json
